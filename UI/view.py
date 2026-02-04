@@ -10,7 +10,7 @@ class View:
         self._page.theme_mode = ft.ThemeMode.DARK
 
         self._controller = None
-
+#
         self._alert = AlertManager(page)
 
         self.txt_title = None
